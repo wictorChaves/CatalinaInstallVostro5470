@@ -18,6 +18,7 @@ Project to try to install Mac Catalina on PC Vostro 5470 A10.
   - [USB Wifi TL-WN727N](https://github.com/coisadepro/TL-WN727N-macOS)
   - [Shutdown Patch](https://github.com/coisadepro/5470-shutdown-patch)
   - [Tony Mac x86](https://www.tonymacx86.com/threads/vostro-5470.273654/)
+  - [SUCCESS HACKINTOSH MACOS CATALINA 10.15 BUILD 19A602 AT DELL VOSTRO 5470](https://www.installhackintosh.com/installed-hackintosh-system/307-success-hackintosh-macos-catalina-10-15-build-19a602-at-dell-vostro-5470)
   
  # License
  
