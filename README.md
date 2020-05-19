@@ -17,7 +17,7 @@ Project to try to install Mac Catalina on PC Vostro 5470 A10.
 
 With less than a minute to complete the installation, this error occurs. [Video](https://youtu.be/ZihrAFcSxzg)
 
-![](IMG_20200519_001433.jpg)
+![](dosc/image/IMG_20200519_001433.jpg)
  
 ## Help Links
  
