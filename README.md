@@ -12,7 +12,13 @@ Project to try to install Mac Catalina on PC Vostro 5470 A10.
  - Create a disk drive using the [Balena Etcher](https://www.balena.io/etcher/) program.
  - Copy the files from the [EFI](/EFI) folder to the "BOOT" partition on the flash drive.
  
- # Help Links
+## Error
+
+With less than a minute to complete the installation, this error occurs.
+
+![](IMG_20200519_001433.jpg)
+ 
+## Help Links
  
   - [Dell Vostro 5470 Hackintosh](https://github.com/coisadepro/Vostro-5470-Hackintosh)
   - [USB Wifi TL-WN727N](https://github.com/coisadepro/TL-WN727N-macOS)
@@ -21,7 +27,7 @@ Project to try to install Mac Catalina on PC Vostro 5470 A10.
   - [SUCCESS HACKINTOSH MACOS CATALINA 10.15 BUILD 19A602 AT DELL VOSTRO 5470](https://www.installhackintosh.com/installed-hackintosh-system/307-success-hackintosh-macos-catalina-10-15-build-19a602-at-dell-vostro-5470)
   - [Catalina 10.15 build 19a602](https://drive.google.com/drive/folders/1Vsm7wk5BxvKSiDb1W6YBwSVCTh75jlvK)
   
- # License
+## License
  
 MIT License
 
