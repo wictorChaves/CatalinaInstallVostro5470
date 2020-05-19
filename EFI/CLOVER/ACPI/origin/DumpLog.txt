@@ -1,0 +1,136 @@
+30:394  27:539  Found BIOS RSDP at F0120
+30:394  0:000  Printing ACPI tables from RSDP F0120 ...
+30:394  0:000   F0120: 'RSD PTR ', Rev: 2 (Acpi 2.0 or newer), Len: 36
+30:394  0:000    (Xsdt: BCFFE170, Rsdt: BCFFE0D4)
+30:394  0:000    BCFFE170: 'XSDT', 'QA09', Rev: 1, Len: 196
+30:394  0:000    BCFFE0D4: 'RSDT', 'QA09', Rev: 1, Len: 116
+30:394  0:000    Tables in Xsdt: 20
+30:394  0:000    0. BCFFA000: 'FACP', 'QA09', Rev: 5, Len: 268
+30:394  0:000        (Dsdt: BCFE9000, Facs: BCF9C000, XDsdt: BCFE9000, XFacs: 0)
+30:394  0:000        BCFE9000: 'DSDT', 'HSW-LPT', Rev: 2, Len: 52794
+30:394  0:000        BCF9C000: 'FACS', Ver: 2, Len: 64
+30:394  0:000    1. BCFFD000: 'BOOT', '', Rev: 1, Len: 40
+30:394  0:000    2. BCFFC000: 'ASF!', 'QA09', Rev: 32, Len: 165
+30:394  0:000    3. BCFF9000: 'HPET', 'QA09', Rev: 1, Len: 56
+30:394  0:000    4. BCFF8000: 'LPIT', 'QA09', Rev: 1, Len: 148
+30:394  0:000    5. BCFF7000: 'APIC', 'QA09', Rev: 1, Len: 152
+30:394  0:000    6. BCFF6000: 'MCFG', 'QA09', Rev: 1, Len: 60
+30:394  0:000    7. BCFE8000: 'SSDT', 'PtidDevc', Rev: 1, Len: 358
+30:394  0:000    8. BCFE7000: 'SSDT', 'Cpu0Ist', Rev: 1, Len: 1337
+30:394  0:000    9. BCFE6000: 'SSDT', 'CpuPm', Rev: 1, Len: 2776
+30:394  0:000    10. BCFE2000: 'SSDT', 'SaSsdt', Rev: 1, Len: 13960
+30:394  0:000    11. BCFE1000: 'UEFI', 'QA09', Rev: 1, Len: 66
+30:394  0:000    12. BCF77000: 'MSDM', 'QA09', Rev: 3, Len: 85
+30:394  0:000    13. BCFE0000: 'BATB', 'QA09', Rev: 1, Len: 70
+30:394  0:000    14. BCFDF000: 'FPDT', 'QA09', Rev: 1, Len: 100
+30:394  0:000    15. BCFDE000: 'SLIC', 'QA09', Rev: 1, Len: 374
+30:394  0:000    16. BCFDC000: 'SSDT', 'NvUltTbl', Rev: 1, Len: 4190
+30:394  0:000    17. BCFDB000: 'UEFI', 'QA09', Rev: 1, Len: 698
+30:394  0:000    18. BCFDA000: 'BGRT', 'QA09', Rev: 1, Len: 56
+30:394  0:000    19. BCFD9000: 'CSRT', 'QA09', Rev: 1, Len: 196
+30:394  0:000    Tables in Rsdt: 20
+30:394  0:000    0. BCFFB000: 'FACP', 'QA09', Rev: 1, Len: 116
+30:394  0:000        (Dsdt: BCFE9000, Facs: BCF9C000)
+30:394  0:000        BCFE9000: 'DSDT', 'HSW-LPT', Rev: 2, Len: 52794
+30:394  0:000        BCF9C000: 'FACS', Ver: 2, Len: 64
+30:394  0:000    1. BCFFD000: 'BOOT', '', Rev: 1, Len: 40
+30:394  0:000    2. BCFFC000: 'ASF!', 'QA09', Rev: 32, Len: 165
+30:394  0:000    3. BCFF9000: 'HPET', 'QA09', Rev: 1, Len: 56
+30:394  0:000    4. BCFF8000: 'LPIT', 'QA09', Rev: 1, Len: 148
+30:394  0:000    5. BCFF7000: 'APIC', 'QA09', Rev: 1, Len: 152
+30:394  0:000    6. BCFF6000: 'MCFG', 'QA09', Rev: 1, Len: 60
+30:394  0:000    7. BCFE8000: 'SSDT', 'PtidDevc', Rev: 1, Len: 358
+30:394  0:000    8. BCFE7000: 'SSDT', 'Cpu0Ist', Rev: 1, Len: 1337
+30:394  0:000    9. BCFE6000: 'SSDT', 'CpuPm', Rev: 1, Len: 2776
+30:394  0:000    10. BCFE2000: 'SSDT', 'SaSsdt', Rev: 1, Len: 13960
+30:394  0:000    11. BCFE1000: 'UEFI', 'QA09', Rev: 1, Len: 66
+30:394  0:000    12. BCF77000: 'MSDM', 'QA09', Rev: 3, Len: 85
+30:394  0:000    13. BCFE0000: 'BATB', 'QA09', Rev: 1, Len: 70
+30:394  0:000    14. BCFDF000: 'FPDT', 'QA09', Rev: 1, Len: 100
+30:394  0:000    15. BCFDE000: 'SLIC', 'QA09', Rev: 1, Len: 374
+30:394  0:000    16. BCFDC000: 'SSDT', 'NvUltTbl', Rev: 1, Len: 4190
+30:394  0:000    17. BCFDB000: 'UEFI', 'QA09', Rev: 1, Len: 698
+30:394  0:000    18. BCFDA000: 'BGRT', 'QA09', Rev: 1, Len: 56
+30:394  0:000    19. BCFD9000: 'CSRT', 'QA09', Rev: 1, Len: 196
+30:394  0:000  Found UEFI Acpi 2.0 RSDP at BCFFE014
+30:394  0:000  Saving ACPI tables from RSDP BCFFE014 to EFI\CLOVER\ACPI\origin ...
+30:394  0:000   BCFFE014: 'RSD PTR ', Rev: 2 (Acpi 2.0 or newer), Len: 36 -> RSDP.aml
+30:448  0:054    (Xsdt: BCFFE170, Rsdt: BCFFE0D4)
+30:448  0:000    BCFFE170: 'XSDT', 'QA09', Rev: 1, Len: 196 -> XSDT.aml
+30:451  0:003    BCFFE0D4: 'RSDT', 'QA09', Rev: 1, Len: 116 -> RSDT.aml
+30:454  0:003    Tables in Xsdt: 20
+30:454  0:000    0. BCFFA000: 'FACP', 'QA09', Rev: 5, Len: 268 -> FACP.aml
+30:458  0:003        (Dsdt: BCFE9000, Facs: BCF9C000, XDsdt: BCFE9000, XFacs: 0)
+30:458  0:000        BCFE9000: 'DSDT', 'HSW-LPT', Rev: 2, Len: 52794 -> DSDT.aml
+30:476  0:018        BCF9C000: 'FACS', Ver: 2, Len: 64 -> FACS.aml
+30:479  0:003    1. BCFFD000: 'BOOT', '', Rev: 1, Len: 40 -> BOOT.aml
+30:484  0:004    2. BCFFC000: 'ASF!', 'QA09', Rev: 32, Len: 165 -> ASF!.aml
+30:487  0:003    3. BCFF9000: 'HPET', 'QA09', Rev: 1, Len: 56 -> HPET.aml
+30:490  0:003    4. BCFF8000: 'LPIT', 'QA09', Rev: 1, Len: 148 -> LPIT.aml
+30:494  0:003    5. BCFF7000: 'APIC', 'QA09', Rev: 1, Len: 152 -> APIC.aml
+30:497  0:003    6. BCFF6000: 'MCFG', 'QA09', Rev: 1, Len: 60 -> MCFG.aml
+30:500  0:003    7. BCFE8000: 'SSDT', 'PtidDevc', Rev: 1, Len: 358 -> SSDT-0.aml
+30:503  0:003    8. BCFE7000: 'SSDT', 'Cpu0Ist', Rev: 1, Len: 1337 -> SSDT-1.aml
+30:507  0:003    9. BCFE6000: 'SSDT', 'CpuPm', Rev: 1, Len: 2776 -> SSDT-2.aml
+30:511  0:004    10. BCFE2000: 'SSDT', 'SaSsdt', Rev: 1, Len: 13960 -> SSDT-3.aml
+30:515  0:003    11. BCFE1000: 'UEFI', 'QA09', Rev: 1, Len: 66 -> UEFI.aml
+30:519  0:003    12. BCF77000: 'MSDM', 'QA09', Rev: 3, Len: 85 -> MSDM.aml
+30:523  0:003    13. BCFE0000: 'BATB', 'QA09', Rev: 1, Len: 70 -> BATB.aml
+30:526  0:003    14. BCFDF000: 'FPDT', 'QA09', Rev: 1, Len: 100 -> FPDT.aml
+30:530  0:004    15. BCFDE000: 'SLIC', 'QA09', Rev: 1, Len: 374 -> SLIC.aml
+30:534  0:003    16. BCFDC000: 'SSDT', 'NvUltTbl', Rev: 1, Len: 4190 -> SSDT-4.aml
+30:537  0:003    17. BCFDB000: 'UEFI', 'QA09', Rev: 1, Len: 698 -> UEFI.aml
+30:543  0:005    18. BCFDA000: 'BGRT', 'QA09', Rev: 1, Len: 56 -> BGRT.aml
+30:555  0:012    19. BCFD9000: 'CSRT', 'QA09', Rev: 1, Len: 196 -> CSRT.aml
+30:559  0:003    Tables in Rsdt: 20
+30:559  0:000    0. BCFFB000: 'FACP', 'QA09', Rev: 1, Len: 116 -> RSDT-FACP.aml
+30:562  0:003        (Dsdt: BCFE9000, Facs: BCF9C000)
+30:562  0:000        BCFE9000: 'DSDT', 'HSW-LPT', Rev: 2, Len: 52794
+30:562  0:000        BCF9C000: 'FACS', Ver: 2, Len: 64
+30:562  0:000    1. BCFFD000: 'BOOT', '', Rev: 1, Len: 40
+30:562  0:000    2. BCFFC000: 'ASF!', 'QA09', Rev: 32, Len: 165
+30:562  0:000    3. BCFF9000: 'HPET', 'QA09', Rev: 1, Len: 56
+30:562  0:000    4. BCFF8000: 'LPIT', 'QA09', Rev: 1, Len: 148
+30:562  0:000    5. BCFF7000: 'APIC', 'QA09', Rev: 1, Len: 152
+30:562  0:000    6. BCFF6000: 'MCFG', 'QA09', Rev: 1, Len: 60
+30:562  0:000    7. BCFE8000: 'SSDT', 'PtidDevc', Rev: 1, Len: 358
+30:562  0:000    8. BCFE7000: 'SSDT', 'Cpu0Ist', Rev: 1, Len: 1337
+30:562  0:000    9. BCFE6000: 'SSDT', 'CpuPm', Rev: 1, Len: 2776
+30:562  0:000    10. BCFE2000: 'SSDT', 'SaSsdt', Rev: 1, Len: 13960
+30:562  0:000    11. BCFE1000: 'UEFI', 'QA09', Rev: 1, Len: 66
+30:562  0:000    12. BCF77000: 'MSDM', 'QA09', Rev: 3, Len: 85
+30:562  0:000    13. BCFE0000: 'BATB', 'QA09', Rev: 1, Len: 70
+30:562  0:000    14. BCFDF000: 'FPDT', 'QA09', Rev: 1, Len: 100
+30:562  0:000    15. BCFDE000: 'SLIC', 'QA09', Rev: 1, Len: 374
+30:562  0:000    16. BCFDC000: 'SSDT', 'NvUltTbl', Rev: 1, Len: 4190
+30:562  0:000    17. BCFDB000: 'UEFI', 'QA09', Rev: 1, Len: 698
+30:562  0:000    18. BCFDA000: 'BGRT', 'QA09', Rev: 1, Len: 56
+30:562  0:000    19. BCFD9000: 'CSRT', 'QA09', Rev: 1, Len: 196
+30:562  0:000  Found UEFI Acpi 1.0 RSDP at BCFFE000
+30:562  0:000  Printing ACPI tables from RSDP BCFFE000 ...
+30:562  0:000   BCFFE000: 'RSD PTR ', Rev: 0 (Acpi 1.0), Len: 20
+30:562  0:000    (Rsdt: BCFFE038)
+30:562  0:000    BCFFE038: 'RSDT', 'QA09', Rev: 1, Len: 112
+30:562  0:000    Tables in Rsdt: 19
+30:562  0:000    0. BCFFB000: 'FACP', 'QA09', Rev: 1, Len: 116
+30:562  0:000        (Dsdt: BCFE9000, Facs: BCF9C000)
+30:562  0:000        BCFE9000: 'DSDT', 'HSW-LPT', Rev: 2, Len: 52794
+30:562  0:000        BCF9C000: 'FACS', Ver: 2, Len: 64
+30:562  0:000    1. BCFFC000: 'ASF!', 'QA09', Rev: 32, Len: 165
+30:562  0:000    2. BCFF9000: 'HPET', 'QA09', Rev: 1, Len: 56
+30:562  0:000    3. BCFF8000: 'LPIT', 'QA09', Rev: 1, Len: 148
+30:562  0:000    4. BCFF7000: 'APIC', 'QA09', Rev: 1, Len: 152
+30:562  0:000    5. BCFF6000: 'MCFG', 'QA09', Rev: 1, Len: 60
+30:562  0:000    6. BCFE8000: 'SSDT', 'PtidDevc', Rev: 1, Len: 358
+30:562  0:000    7. BCFE7000: 'SSDT', 'Cpu0Ist', Rev: 1, Len: 1337
+30:562  0:000    8. BCFE6000: 'SSDT', 'CpuPm', Rev: 1, Len: 2776
+30:562  0:000    9. BCFE2000: 'SSDT', 'SaSsdt', Rev: 1, Len: 13960
+30:562  0:000    10. BCFE1000: 'UEFI', 'QA09', Rev: 1, Len: 66
+30:562  0:000    11. BCF77000: 'MSDM', 'QA09', Rev: 3, Len: 85
+30:562  0:000    12. BCFE0000: 'BATB', 'QA09', Rev: 1, Len: 70
+30:562  0:000    13. BCFDF000: 'FPDT', 'QA09', Rev: 1, Len: 100
+30:562  0:000    14. BCFDE000: 'SLIC', 'QA09', Rev: 1, Len: 374
+30:562  0:000    15. BCFDC000: 'SSDT', 'NvUltTbl', Rev: 1, Len: 4190
+30:562  0:000    16. BCFDB000: 'UEFI', 'QA09', Rev: 1, Len: 698
+30:562  0:000    17. BCFDA000: 'BGRT', 'QA09', Rev: 1, Len: 56
+30:562  0:000    18. BCFD9000: 'CSRT', 'QA09', Rev: 1, Len: 196
