@@ -1,18 +1,18 @@
 # Mac Catalina Vostro 5470
 
-Projeto para tentar instalar Mac Catalina em um Vostro 5470 A10.
+Project to try to install Mac Catalina on PC Vostro 5470 A10.
 
-## Imagem principal
+## Main ISO
 
  [Download](http://www.hackintoshworld.com/sdm_downloads/macos-catalina/)
  
-## Instruções
+## Instructions
 
- - Baixe a imagem acima.
- - Crie o pendrive boot com o programa [Balena Etcher](https://www.balena.io/etcher/)
- - Copie todo o conteúdo da pasta [EFI](/EFI) para a partição "BOOT" do pendrive.
+ - [Download the ISO.](http://www.hackintoshworld.com/?smd_process_download=1&download_id=20443)
+ - Create a disk drive using the [Balena Etcher](https://www.balena.io/etcher/) program.
+ - Copy the files from the [EFI](/EFI) folder to the "BOOT" partition on the flash drive.
  
- # Ajuda
+ # Help Links
  
   - [Dell Vostro 5470 Hackintosh](https://github.com/coisadepro/Vostro-5470-Hackintosh)
   - [USB Wifi TL-WN727N](https://github.com/coisadepro/TL-WN727N-macOS)
