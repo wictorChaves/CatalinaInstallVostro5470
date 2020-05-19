@@ -11,6 +11,7 @@ Project to try to install Mac Catalina on PC Vostro 5470 A10.
  - [Download the ISO.](http://www.hackintoshworld.com/?smd_process_download=1&download_id=20443)
  - Create a disk drive using the [Balena Etcher](https://www.balena.io/etcher/) program.
  - Copy the files from the [EFI](/EFI) folder to the "BOOT" partition on the flash drive.
+ - Use the flash drive to boot and install normally.
  
 ## Error
 
