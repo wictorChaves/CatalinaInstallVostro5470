@@ -17,4 +17,4 @@ Project to try to install Mac Catalina on PC Vostro 5470 A10.
   - [Dell Vostro 5470 Hackintosh](https://github.com/coisadepro/Vostro-5470-Hackintosh)
   - [USB Wifi TL-WN727N](https://github.com/coisadepro/TL-WN727N-macOS)
   - [Shutdown Patch](https://github.com/coisadepro/5470-shutdown-patch)
-  - [tonymacx86](https://www.tonymacx86.com/threads/vostro-5470.273654/)
+  - [Tony Mac x86](https://www.tonymacx86.com/threads/vostro-5470.273654/)
