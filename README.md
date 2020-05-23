@@ -1,23 +1,26 @@
 # Mac Catalina Vostro 5470
 
 Project to try to install Mac Catalina on PC Vostro 5470 A10.
-
-## Main ISO
-
- [Download](http://www.hackintoshworld.com/sdm_downloads/macos-catalina/)
  
 ## Instructions
 
- - [Download the ISO.](http://www.hackintoshworld.com/?smd_process_download=1&download_id=20443)
+ - Download [OSXR Catalina 10.15.2 -Dell inspiron 5000.img](https://drive.google.com/file/d/1I5kl-S4vGMquJkCGrjjJytQlLaLyDBOR/view)
  - Create a disk drive using the [Balena Etcher](https://www.balena.io/etcher/) program.
- - Copy the files from the [EFI](/EFI) folder to the "BOOT" partition on the flash drive.
- - Use the flash drive to boot and install normally.
+ - Copy the files from the [EFI](/EFI) folder to the "EFI" partition on the flash drive.
+     - [Mount EFI partition on MAC OS.](mount-efi-mac.md)
+     - [Mount EFI partition on Windows.](mount-efi-windows.md)
+ - Use the flash drive to boot and install normally, until this error occurs:
  
-## Error
-
-With less than a minute to complete the installation, this error occurs. [Video](https://youtu.be/ZihrAFcSxzg)
-
 ![](docs/image/IMG_20200519_001433.jpg)
+
+ - After that, the screen will turn black and press the space key several times.
+ - The HD led will start to flash, only stop pressing the space key if the HD led will no longer flash; in that case, you turn the power button on and off again and continue the installation or until the progress bar appears.
+ 
+ > Whenever the screen goes black, repeat this step.
+ 
+## Special thanks
+ 
+Special thanks to [Clovijan](https://github.com/Clovijan), without him installation would not be possible.
  
 ## Help Links
  
