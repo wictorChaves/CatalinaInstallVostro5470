@@ -21,6 +21,10 @@ Project to try to install Mac Catalina on PC Vostro 5470 A10.
 ## Special thanks
  
 Special thanks to [Clovijan](https://github.com/Clovijan), without him installation would not be possible.
+
+## Result
+
+![](docs/image/screenshot.png)
  
 ## Help Links
  
