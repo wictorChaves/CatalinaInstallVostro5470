@@ -2,7 +2,7 @@
 
 Project to try to install Mac Catalina on PC Vostro 5470 A10.
  
-## Instructions
+## Installation
 
  - Download [OSXR Catalina 10.15.2 -Dell inspiron 5000.img](https://drive.google.com/file/d/1I5kl-S4vGMquJkCGrjjJytQlLaLyDBOR/view)
  - Create a disk drive using the [Balena Etcher](https://www.balena.io/etcher/) program.
@@ -17,6 +17,10 @@ Project to try to install Mac Catalina on PC Vostro 5470 A10.
  - The HD led will start to flash, only stop pressing the space key if the HD led will no longer flash; in that case, you turn the power button on and off again and continue the installation or until the progress bar appears.
  
  > Whenever the screen goes black, repeat this step.
+ 
+## Post Installation
+
+ - [Install WiFi](docs/install_itlwm.md)
  
 ## Special thanks
  
