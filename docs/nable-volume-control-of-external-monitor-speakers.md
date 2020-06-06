@@ -1,3 +1,5 @@
+# Adjust Speaker Volume on a DisplayPort, HDMI, or Thunderbolt Monitor
+
  1 - Download the free [SoundFlower extension](dmg/enable-volume-control-of-external-monitor-speakers/Soundflower-2.0b2.dmg) from Github.
 
 ![](docs/image/enable-volume-control-of-external-monitor-speakers0.jpg)
