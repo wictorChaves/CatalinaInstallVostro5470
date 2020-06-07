@@ -22,6 +22,7 @@ Project to try to install Mac Catalina on PC Vostro 5470 A10.
 
  - [Install WiFi](docs/install_itlwm.md)
  - [Adjust Speaker Volume on a DisplayPort, HDMI, or Thunderbolt Monitor](docs/enable-volume-control-of-external-monitor-speakers.md)
+ - [Shutdown Script](/docs/shutdown-script.md)
  
 ## Special thanks
  
