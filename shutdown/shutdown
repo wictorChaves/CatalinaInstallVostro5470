@@ -2,4 +2,5 @@
 efi_dir=$(sudo bash mount_efi.sh)
 cd /Volumes/EFI/EFI
 echo "1">.PENDING_SHUTDOWN
+sleep 1
 shutdown -r now
